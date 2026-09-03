@@ -1,0 +1,3 @@
+# Exercício 04 - Campeonato Futsal
+
+## Uma escola está organizando um campeonato de FUTSAL. As equipes interessadas deverão se inscrever, sendo que cada equipe tem um código, um nome e os seus jogadores. Cada jogador só poderá fazer parte de uma equipe. Do jogador deseja-se armazenar seu código, nome, rg e data de nascimento. Os jogos entre as equipes deverão possuir um número único, data, horário, o código das equipes que irão jogar e um árbitro. É necessário controlar também os cartões que os jogadores recebem nas partidas, sendo que pode ser um cartão vermelho ou amarelo.

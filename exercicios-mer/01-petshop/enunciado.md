@@ -1,0 +1,3 @@
+# Exercício 01 - Pet Shop
+
+## Um pet shop realiza três tipos de serviço: banho, tosa e táxi dog, em animais de duas espécies: cães e gatos. Todo animal possui um dono, nome, peso, espécie e raça. Dos donos deseja-se armazenar seu nome, rg, cpf, endereço completo e telefones. Para que o animal possa realizar algum serviço é necessário fazer um agendamento, que deverá ter um código, data, hora, identificação do animal e o valor. ​

@@ -1,0 +1,3 @@
+# Exercício 03 - Academia
+
+## Uma academia oferece as seguintes modalidades para seus alunos: musculação, natação, hidroginástica e dança cigana. Ao se matricular o aluno deve escolher o seu tipo de plano (mensal, trimestral ou anual) além de indicar as modalidades nas quais deseja se matricular. Todo aluno possui um código, nome, CPF, RG e telefone. Toda modalidade possui um código, nome, professor e horário. Uma modalidade pode ser oferecida em mais de um horário e o aluno deverá optar pelo horário no ato da matricula. Todo professor possui um código, nome e telefone.
